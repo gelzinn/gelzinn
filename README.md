@@ -1,11 +1,15 @@
-### 👋 Hi, I’m gelzin • Designer & Developer.
-
-Passionate about innovation and learning, I am and always will be in search of knowledge. I'm a dreamer and curious boy to break the technological world. I really love everything I do.
-
-I work with design since 2014. 2 years ago I delved into motion design and now, I am delving into programming.
-If you want to see my designer work, visit the website [gelzin.com](https://gelzin.com)
-
-Working with what fills my eyes daily, makes me feel pleasure in what I do, motivates and instigates me always. In addition to being gratifying, this is what I wanted and seek to this day. I have in mind to be a good developer and to influence many people with my code, besides following exactly the purpose of the area: to solve problems.
+<img align="right" height="100%" width="400px" src="https://github.com/gelzinn.png" />
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I’m gelzin • Designer & Developer.</h1>
+<p>
+  Passionate about innovation and learning, I am and always will be in search of knowledge. I'm a dreamer and curious boy to break the technological world. I really    love everything I do.
+</p>
+<p>
+  I work with design since 2014. 2 years ago I delved into motion design and now, I am delving into programming.
+  If you want to see my designer work, visit the website [gelzin.com](https://gelzin.com)
+</p>
+<p align="left">
+  Working with what fills my eyes daily, makes me feel pleasure in what I do, motivates and instigates me always. In addition to being gratifying, this is what I wanted and seek to this day. I have in mind to be a good developer and to influence many people with my code, besides following exactly the purpose of the area: to solve problems.
+</p>
 
 ##
 
@@ -26,6 +30,13 @@ Working with what fills my eyes daily, makes me feel pleasure in what I do, moti
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
+### My stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gelzinn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelzinn&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 ### Where to find me 
  
 <div> 
@@ -34,12 +45,4 @@ Working with what fills my eyes daily, makes me feel pleasure in what I do, moti
   <a href="https://instagram.com/gelzinn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/gelzinn_" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gelzinn" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-### My stats
-
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gelzinn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelzinn&layout=compact&langs_count=7&theme=dark"/>
 </div>
