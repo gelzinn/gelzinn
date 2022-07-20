@@ -1,15 +1,11 @@
 <img align="right" height="400px" width="400px" style="object-fit: cover;" src="https://pps.whatsapp.net/v/t61.24694-24/294139067_1027502094572986_2277421899096597475_n.jpg?ccb=11-4&oh=01_AVxwGCiAOZdjVFtHgFnhDc1MBIAWKGe0XaRTGERP3cGUlg&oe=62E81FD3" />
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I’m gelzin • Designer & Developer.</h1>
-<p>
-  Passionate about innovation and learning, I am and always will be in search of knowledge. I'm a dreamer and curious boy to break the technological world. I really    love everything I do.
-</p>
-<p>
-  I work with design since 2014. 2 years ago I delved into motion design and now, I am delving into programming.
-  If you want to see my designer work, visit the website [gelzin.com](https://gelzin.com)
-</p>
-<p align="left">
-  Working with what fills my eyes daily, makes me feel pleasure in what I do, motivates and instigates me always. In addition to being gratifying, this is what I wanted and seek to this day. I have in mind to be a good developer and to influence many people with my code, besides following exactly the purpose of the area: to solve problems.
-</p>
+Passionate about innovation and learning, I am and always will be in search of knowledge. I'm a dreamer and curious boy to break the technological world. I really    love everything I do.
+
+I work with design since 2014. 2 years ago I delved into motion design and now, I am delving into programming.
+If you want to see my designer work, visit the website [gelzin.com](https://gelzin.com)
+
+Working with what fills my eyes daily, makes me feel pleasure in what I do, motivates and instigates me always. In addition to being gratifying, this is what I wanted and seek to this day. I have in mind to be a good developer and to influence many people with my code, besides following exactly the purpose of the area: to solve problems.
 
 ##
 
