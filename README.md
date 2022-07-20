@@ -1,4 +1,4 @@
-<img align="right" height="100%" width="400px" src="https://github.com/gelzinn.png" />
+<img align="right" height="400px" width="400px" style="object-fit: cover;" src="https://pps.whatsapp.net/v/t61.24694-24/294139067_1027502094572986_2277421899096597475_n.jpg?ccb=11-4&oh=01_AVxwGCiAOZdjVFtHgFnhDc1MBIAWKGe0XaRTGERP3cGUlg&oe=62E81FD3" />
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I’m gelzin • Designer & Developer.</h1>
 <p>
   Passionate about innovation and learning, I am and always will be in search of knowledge. I'm a dreamer and curious boy to break the technological world. I really    love everything I do.
