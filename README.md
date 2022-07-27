@@ -25,13 +25,6 @@ Working with what fills my eyes daily, makes me feel pleasure in what I do, moti
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
-### My stats
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gelzinn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelzinn&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ### Where to find me 
  
 <div> 
