@@ -28,6 +28,7 @@ Working with what fills my eyes daily, makes me feel pleasure in what I do, moti
 ### Where to find me 
  
 <div> 
+  <a href="https://www.github.com/gelzinn" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23333333.svg?&style=for-the-badge&logo=github&logoColor=white" alt="@gelzinn on GitHub"></a>
   <a href="https://gelzin.com" target="_blank"><img src="https://img.shields.io/badge/-gelzin.com-black?&style=for-the-badge"></a>
   <a href="https://www.youtube.com/c/gelzinn_" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/gelzinn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
