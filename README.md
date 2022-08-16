@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I’m gelzin • Designer & Developer.</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/gelzinn/gelzinn/main/hi-emoji.gif" height="30px">, I’m gelzin • Designer & Developer.</h1>
 Passionate about innovation and learning, I am and always will be in search of knowledge. I'm a dreamer and curious boy to break the technological world. I really    love everything I do.
 
 I work with design since 2014. 2 years ago I delved into motion design and now, I am delving into programming.
