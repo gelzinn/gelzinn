@@ -4,8 +4,6 @@ Passionate about innovation and learning, I am and always will be in search of k
 I work with design since 2014. 2 years ago I delved into motion design and now, I am delving into programming.
 If you want to see my designer work, visit the website [gelzin.com](https://gelzin.com).
 
-Working with what fills my eyes daily, makes me feel pleasure in what I do, motivates and instigates me always. In addition to being gratifying, this is what I wanted and seek to this day. I have in mind to be a good developer and to influence many people with my code, besides following exactly the purpose of the area: to solve problems.
-
 ##
 
 ### Most used techs
