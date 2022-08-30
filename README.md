@@ -3,8 +3,7 @@
 
 <p>Passionate about innovation and learning, I am and always will be in search of knowledge. I'm a dreamer and curious boy to break the technological world. I really    love everything I do.</p>
 
-<p>I work with design since 2014. In 2020 I delved into motion design.</p>
-<p>If you want to see my designer work, visit the website <a href="https://gelzin.com" target="_blank">gelzin.com</a>.</p>
+<p>I work with design since 2014. In 2020 I delved into motion design. If you want to see my designer work, visit the website <a href="https://gelzin.com" target="_blank">gelzin.com</a>.</p>
 
 <p>I'm a front-end developer since 2017.</p>
 
