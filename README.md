@@ -1,8 +1,10 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/gelzinn/gelzinn/main/hi-emoji.gif" height="30px">, I’m gelzin • Designer & Developer.</h1>
 Passionate about innovation and learning, I am and always will be in search of knowledge. I'm a dreamer and curious boy to break the technological world. I really    love everything I do.
 
-I work with design since 2014. 2 years ago I delved into motion design and now, I am delving into programming.
+I work with design since 2014. In 2020 I delved into motion design.
 If you want to see my designer work, visit the website [gelzin.com](https://gelzin.com).
+
+I'm a developer since 2017.
 
 ##
 
