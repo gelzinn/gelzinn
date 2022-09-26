@@ -23,7 +23,17 @@
     <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2188b6?style=for-the-badge&logo=yarn&logoColor=white" />
     <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   </div>
-
+  
+  ### Tools I work
+  
+  <div>
+    <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
+    <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+    <img alt="After Effects" src="https://img.shields.io/badge/-After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white">
+    <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+    <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
+  </div>
+  
   ### I'm learning
 
   <div>
