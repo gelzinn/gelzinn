@@ -31,7 +31,7 @@
     <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
     <img alt="After Effects" src="https://img.shields.io/badge/-After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white">
     <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
-    <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
+    <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
   </div>
   
   ### I'm learning
