@@ -1,7 +1,7 @@
 <h1><img src="https://raw.githubusercontent.com/gelzinn/gelzinn/main/hi-emoji.gif" height="32px"> I’m gelzin • Designer & Developer.</h1>
 
 
-<p>Passionate about innovation and learning, I am and always will be in search of knowledge. I'm a dreamer and curious boy to break the technological world. I really    love everything I do.</p>
+<p>I am and always will be in search of knowledge. I'm a dreamer and curious guy to break the technological world. I really love everything I do.</p>
 
 <h1><img src="https://raw.githubusercontent.com/gelzinn/gelzinn/main/brain-animated.gif" height="32px"> Have experience in</h1>
 
